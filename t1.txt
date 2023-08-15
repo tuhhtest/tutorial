@@ -6,3 +6,5 @@ commit Test in der Datei selber
 
 
 hier ist die Option  '--hard' des Befehals checkout
+
+pullen ins lokale Repository
